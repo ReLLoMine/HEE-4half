@@ -95,9 +95,9 @@ j) interference
 9. electromagnetic interference
 
 # 7 
-1. It can cause huge delay
+1. It can cause huge latency
 2. They correspond to the IP-address
-3. Optic fiber makes
+3. Optical fiber makes
 4. Manages IPs, domains, etc
 5. Dividing data stream into packages
 
@@ -108,3 +108,61 @@ j) interference
 4. shared
 5. charge; bandwidth
 6. common; flexible
+
+9 11 12 13 15 16 
+
+# 11
+1. HTTP, SMTP, FTP
+2. Network Interface level
+3. User Datagram Protocol
+4. TCP guarantees the delivery of packets because of confirmation from the recipient. UDP just sends data no matter did the recipient get the packets or not
+5. Contains routing information
+
+# 12
+1. over
+2. of
+3. to
+4. at
+5. as
+6. of
+
+# 13
+1. referred
+2. accessed
+3. hyperlinks
+4. click
+5. a set of instructions
+6. synonymous
+7. scientist
+8. web browser
+9. outside
+10. everyday
+11. up-to-date
+
+1. Uniform Resource Locator
+2. Tim Berners-Lee at 1989
+3. 1993/1994
+4. Hypertext Markup Language
+
+# 15
+1. with
+2. of
+3. by
+4. into
+5. through
+6. between
+7. with
+
+# 16
+1. DSL
+2. IP address
+3. fiber-optic technology
+4. WWW
+5. cable Internet
+6. bandwidth
+7. dial-up connection
+8. cellular network
+9. satelite connection
+10. packet switching
+11. Wi-Fi
+
