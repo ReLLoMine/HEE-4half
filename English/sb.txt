@@ -1,0 +1,110 @@
+# 1
+1.1 When do you think the Internet appeared?
+I guess the Internet appeared around the end of 90th.
+
+1.2 How has the advent of the Internet changed our life?
+The Internet brought us the new way to communicate. Now communication is way more reliable.
+Now we can communicate with people around the globe. Also global economics changed a lot since Internet appeared.
+
+1.3 How can we get access to the Internet? What types of Internet connections do you know? 
+There's two possible options for commonfolk: 
+	1) To buy a sim-card with Internet access included. (For mobile devices ussually)
+	2) To sign a contract with ISP (Internet Service Provider)
+I guess there's two main types of connection:
+	1) Wired
+	2) Wireless
+	
+# 2
+a) Затухание сигнала
+b) Пропускная способность
+c) Широкополосный доступ
+d) Сотовые вышки
+e) Коаксиальный кабель
+f) Медная витая пара
+g) Коммутируемый доступ
+h) Оптоволоконный кабель
+i) Набор интернет протоколов
+j) Приёмопередатчик
+
+# 3 	
+3.1 What does ADSL stand for? Why is this type of connection called asymmetric?
+Asymmetric Digital Subscriber Line.
+Asymmetric because the download speed is faster than upload.
+
+3.2 What is the difference between a dial-up connection and DSL?
+Dial-up works on the same frequency as phone so they can't work simultaniuosly.
+
+3.3 What is the origin of the term dial-up connection?
+Dialing up the phone number.
+
+3.4 What is the downside of cable Internet?
+Narrow bandwidth
+
+3.5 What types of wireless Internet connections are mentioned in the text?
+Wi-Fi, culluar, satellite.
+
+3.6 How is data transferred over fiber-optic cables?
+With light signals where the presence of light indicates binary one and absence indicates binary zero.
+
+3.7 What equipment does one need to get access to the Internet through satellite systems?
+A satellite dish for two-way data communication and modem.
+
+# 4
+a) simultaniuosly
+b) premises
+c) digital signal
+d) competitive prices
+e) inexpensive option
+f) reliable
+g) stable signal
+h) dedicated line
+i) signal distortion
+j) interference
+
+# 6
+1) Communication
+2) Synonymous
+3) Specified
+4) Generally
+5) Refers
+6) Similarly
+7) Performance
+8) Determination
+
+# 8 
+1) Amount
+2) Piece
+3) Broken down
+4) Ensures
+5) Congestion
+6) Rerouted
+7) Destination
+8) Determined
+9) Includes
+10) Reliable
+
+# 5
+1. high-speed; attached
+2. vary
+3. gateway
+4. downside
+5. confuse; dial-up connection
+6. connection
+7. SDSL; VDSL
+8. backbone
+9. electromagnetic interference
+
+# 7 
+1. It can cause huge delay
+2. They correspond to the IP-address
+3. Optic fiber makes
+4. Manages IPs, domains, etc
+5. Dividing data stream into packages
+
+# 10
+1. hang up; circuit
+2. challenges
+3. upgrade
+4. shared
+5. charge; bandwidth
+6. common; flexible
